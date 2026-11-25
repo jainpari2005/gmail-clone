@@ -50,6 +50,4 @@ Project Description
 
 This project allows registered users to exchange emails through a web application with authentication, inbox, sent messages, email composition, and notifications.
 
-Author
 
-Developed as a team project.
